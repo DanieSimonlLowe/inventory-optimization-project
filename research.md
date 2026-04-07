@@ -57,7 +57,7 @@ AND ("geospatial" OR "spatial" OR "GIS" OR "location-based" OR "facility locatio
 
 ## Paper Details
 
-# **Title:**  
+### **Title:**  
 - **Year:**  
 - **Link:**
 - **Why I picked this paper:**  
@@ -71,7 +71,7 @@ AND ("geospatial" OR "spatial" OR "GIS" OR "location-based" OR "facility locatio
 - **Outputs:**
 - **Next Action**
 
-# Algorithmic Approaches to Inventory Management Optimization
+### Algorithmic Approaches to Inventory Management Optimization
 https://www.mdpi.com/2227-9717/9/1/102
 
 Read this.
