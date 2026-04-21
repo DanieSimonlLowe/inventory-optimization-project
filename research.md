@@ -12,7 +12,7 @@
 ## Method Comparison — My Take
 
 
-| Paper | Method | Problem Type | Data Needed | Pros | Cons | Good for My Project? |
+| Paper (ref) | Method | Problem Type | Data Needed | Pros | Cons | Good for My Project? |
 |--------|--------|--------------|-------------|------|------|----------------------|
 | | | | | |
 
@@ -49,15 +49,14 @@
 
 Search Tearm A:
 ```
-("inventory optimization" OR "inventory management" OR "inventory control" OR "stock management")
-AND ("compare" OR "comparison" OR "comparative study" OR "evaluation" OR "benchmark" OR "trade-off")
-AND ("model" OR "modelling" OR "optimization" OR "method" OR "approach" OR "algorithm")
-AND ("geospatial" OR "spatial" OR "GIS" OR "location-based" OR "facility location" OR "network")
+("Location–Inventory–Routing" OR "Location Inventory Routing" OR "LIRP" )
+AND (compar* OR evaluat* OR benchmark* OR "trade-off" OR tradeoff OR 
+  "performance analysis" OR "performance evaluation" OR "comparative study" )
 ```
 
-## Paper Details
-
-### **Title:**  
+## **Title:**  
+- **Ref Number:**  
+- **Search:**  
 - **Year:**  
 - **Link:**
 - **Why I picked this paper:**  
@@ -71,7 +70,3 @@ AND ("geospatial" OR "spatial" OR "GIS" OR "location-based" OR "facility locatio
 - **Outputs:**
 - **Next Action**
 
-### Algorithmic Approaches to Inventory Management Optimization
-https://www.mdpi.com/2227-9717/9/1/102
-
-Read this.
